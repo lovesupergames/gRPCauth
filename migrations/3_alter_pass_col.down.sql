@@ -1,0 +1,1 @@
+alter table users rename column password_hash to pass_hash;

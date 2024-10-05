@@ -1,0 +1,1 @@
+insert into apps values (1,"test","test_secret");
